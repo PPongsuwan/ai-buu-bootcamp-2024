@@ -243,8 +243,7 @@ async def lifespan(app: FastAPI):
         "ไอน้ำ คือ คนน่ารัก",
         "ไอน้ำ เกิดวันที่ 30 กันยายน 2546 ที่จังหวัดชลบุรี กำลังศึกษาอยู่ที่มหาวิทยาลัยบูรพา สาขา AAI",
         "งาน BUU-Bootcamp-2024 จัดที่มหาวิทยาลัยบูรพา ในวันที่ 25 มกราคม ปีค.ศ.2024 โดยมีการจัดกิจกรรมต่าง ๆ ที่เกี่ยวข้องกับการพัฒนาซอฟต์แวร์ เวลา 9:00 น. - 16:00 น.",
-        "clickNext team Ai มี พี่ชวนทำ DataOps = Automation + Monitoring + Testing.,พี่ปาร์ม Back-end ,พี่ออย BA ,พี่เจ๋ง Front-end , พี่ดาว BA 
-"
+        "clickNext team Ai มี พี่ชวนทำ DataOps = Automation + Monitoring + Testing.,พี่ปาร์ม Back-end ,พี่ออย BA ,พี่เจ๋ง Front-end , พี่ดาว BA "
     ]
     
     # เพิ่มข้อมูลตัวอย่างลงใน Gemini
